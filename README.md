@@ -1,1 +1,1 @@
-# SIGNATE-Motion-Decoding-Using-Biosignals-Top-2
+# SIGNATE-Motion-Decoding-Using-Biosignals-Top2
