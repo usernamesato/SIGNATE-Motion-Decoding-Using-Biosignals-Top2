@@ -41,6 +41,4 @@
 ---
 
 #### 注意とお問い合わせ
-普段は製造業で働いており、今回が初めてのオープンソース公開となります。  
-そのため、至らない点や改善の余地があるかもしれませんが、温かい目で見守っていただければ幸いです。  
 ご質問や改善点がございましたら、[Issues](https://github.com/usernamesato/SIGNATE-Motion-Decoding-Using-Biosignals-Top2/issues)からお問い合わせください!!
